@@ -1,0 +1,6 @@
+{
+  "name": "LEXI - Digital Rights & Legal Translator",
+  "description": "An AI-powered digital-rights and legal-language translator for teenagers, creators, and students to understand Terms, Privacy Policies, and contracts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
